@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Frame Layout/Frame Layout.iml" filepath="$PROJECT_DIR$/Frame Layout/Frame Layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QQ Chat Message/QQ Chat Message.iml" filepath="$PROJECT_DIR$/QQ Chat Message/QQ Chat Message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XML Layout Game Start Interface/XML Layout Game Start Interface.iml" filepath="$PROJECT_DIR$/XML Layout Game Start Interface/XML Layout Game Start Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/followfingerbunny/followfingerbunny.iml" filepath="$PROJECT_DIR$/followfingerbunny/followfingerbunny.iml" />
+      <module fileurl="file://$PROJECT_DIR$/softwareupdatetips/softwareupdatetips.iml" filepath="$PROJECT_DIR$/softwareupdatetips/softwareupdatetips.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wechatlogin/wechatlogin.iml" filepath="$PROJECT_DIR$/wechatlogin/wechatlogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xmly Login/xmly Login.iml" filepath="$PROJECT_DIR$/xmly Login/xmly Login.iml" />
+    </modules>
+  </component>
+</project>
